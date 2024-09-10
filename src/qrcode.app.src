@@ -1,0 +1,15 @@
+{application, qrcode,
+ [{description, "An OTP library"},
+  {vsn, "1.0.3"},
+  {registered, []},
+  {applications,
+   [kernel,
+    stdlib,
+    crypto
+   ]},
+  {env,[]},
+  {modules, []},
+
+  {licenses, ["Apache-2.0"]},
+  {links, []}
+ ]}.
