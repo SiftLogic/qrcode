@@ -173,7 +173,7 @@ accepting any such warranty or additional liability.
 
 END OF TERMS AND CONDITIONS
 
-Copyright 2024, Kyle Neal <nealkyle5@gmail.com>.
+Copyright 2011 Steve Davis <steve@simulacity.com>
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
